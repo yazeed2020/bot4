@@ -8,7 +8,7 @@
     "@mindaugaskasp/node-riot": "github:mindaugaskasp/node-riot",
     "@mindaugaskasp/node-twitch": "github:mindaugaskasp/node-twitch",
     "@mindaugaskasp/node-youtube": "github:mindaugaskasp/node-youtube",
-    "axios": "^0.15.3",
+    "axios": "^0.19.0",
     "bufferutil": "^4.0.1",
     "discord.js": "^11.4.2",
     "discord.js-commando": "^0.10.0",
